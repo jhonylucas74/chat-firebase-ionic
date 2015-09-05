@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+
+.bar-footer {
+  display: -webkit-flex;
+  display: flex;
+}
+
+.button-balanced {
+  margin-left: 10px;
+  width: 70px;
+}
+
+input {
+  -webkit-flex: 1;
+          flex: 1;
+  padding-left: 10px !important;
+}
